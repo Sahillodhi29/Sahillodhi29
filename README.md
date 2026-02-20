@@ -1,7 +1,7 @@
 ### Hi, I’m @Sahillodhi29 👋  
-👀 I’m interested in **Data Analysis**, **Business Intelligence** & **Machine Learning**
+👀 I’m interested in **Data Analysis**, **Business Intelligence** & **Innovation**
   
-🚀 Building my personal portfolio and amazing projects related to **Data Analytics** and **ML**
+🚀 Building my personal portfolio and amazing projects related to **Data Analytics** and **Dashboarding**
 
 🤝 I’m looking to collaborate on **Data Analytics projects**
 
